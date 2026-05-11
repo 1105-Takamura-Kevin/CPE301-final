@@ -18,8 +18,8 @@ For easy referencing, the `printEvent(__)` event codes are listed here.
 | 4 | The state changed to IDLE. |
 | 5 | The state changed to ACTIVE. |
 | 6 | The state changed to ERROR. |
-| 7 | An improperly formatted card was scanned. |
-| 8 | A correctly formatted card was scanned. |
+| 7 | A counterfit or improperly formatted card was scanned. |
+| 8 | A genuine card was scanned. |
 | 9 | The reset button was presssed. |
 | 10 | The presented RFID card could not read/write. Try holding the card directly on the sensor for 3 seconds. |
 | 11 | The presented RFID card was charged 1 credit. Allow rider to board. |
