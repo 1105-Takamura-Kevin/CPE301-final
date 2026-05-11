@@ -2,8 +2,9 @@
 Group 18: Kevin Takamura
 <br><br>
 AceCard is an RFID-based transit fare system, built using the Arduino Mega 2560.
-
+The demonstration video can be found [here](). Add the real link!!!
 ## Event codes
+For easy referencing, the `printEvent(__)` event codes are listed here.
 | ID | Event |
 |----|-------|
 | 0 | The system started successfully. |
