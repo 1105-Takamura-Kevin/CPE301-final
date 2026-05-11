@@ -2,7 +2,7 @@
 **Group 18:** Kevin Takamura
 <br><br>
 AceCard is an RFID-based transit fare system, built using the Arduino Mega 2560.  
-The demonstration video can be found [here](https://youtu.be/YG3EhWlBaoI?si=pKtrkQguhAwlNZ8k) and the report PDF can be found [here](https://github.com/1105-Takamura-Kevin/CPE301-final/blob/main/Report/CPE301_Final.pdf).
+The demonstration video can be found [here](https://youtu.be/YG3EhWlBaoI?si=pKtrkQguhAwlNZ8k), the report PDF can be found [here](https://github.com/1105-Takamura-Kevin/CPE301-final/blob/main/Report/CPE301_Final.pdf), and the main Arduino file can be found [here](https://github.com/1105-Takamura-Kevin/CPE301-final/blob/main/Arduino%20files/CPE301final.ino).
 <br><br>
 **Please note:** the add15credits.ino file is **ONLY** a supplementary program used to load 15 credits onto an RFID card and should **NOT** be included in grading. It is a slightly modified version of an example program included with the MFRC522 library.
 <br><br>
