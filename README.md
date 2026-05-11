@@ -8,7 +8,7 @@ The demonstration video can be found [here](). Add the real link!!!
 <br><br>
 Additionally, CPE301final.ino is the main file and designed to only work with **ONE** RFID card ID. This is to simulate "authentic", genuine AceCards and allows me to demonstrate an ERROR state condition. To allow your RFID tag to be used with my code, the ID must be: `0xE0, 0x50, 0xA8, 0x5F`
 ## Event codes
-For easy referencing, the `printEvent(__)` event codes are listed here.
+For easy referencing, the `printEvent(__)` serial event codes are listed here.
 | ID | Event |
 |----|-------|
 | 0 | The system started successfully. |
