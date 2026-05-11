@@ -4,7 +4,7 @@
 AceCard is an RFID-based transit fare system, built using the Arduino Mega 2560.  
 The demonstration video can be found [here](). Add the real link!!!
 <br><br>
-**Please note:** the add30credits.ino file is **ONLY** a supplementary program used to load 15 credits onto an RFID card and should **NOT** be included in grading. It is a slightly modified version of an example program included with the MFRC522 library.
+**Please note:** the add15credits.ino file is **ONLY** a supplementary program used to load 15 credits onto an RFID card and should **NOT** be included in grading. It is a slightly modified version of an example program included with the MFRC522 library.
 <br><br>
 Additionally, CPE301final.ino is the main file and designed to only work with **ONE** RFID card ID. This is to simulate "authentic", genuine AceCards and allows me to demonstrate an ERROR state condition. To allow your RFID tag to be used with my program, the ID must be: `0xE0, 0x50, 0xA8, 0x5F`
 ## Event codes
